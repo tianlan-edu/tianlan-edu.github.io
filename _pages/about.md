@@ -12,25 +12,25 @@ redirect_from:
 {% include base_path %}
 Personal Information
 ======
-* Dare of Birth: Oct. 10th, 1993
-* Address: Department of Water Resources and Environment,<br>School of Geography and Planning,<br>Sun Yat-sen University,<br>No.135 Xingangxi Road,<br>Guangzhou 510275,<br>China 
-* Tel: +86 13673699111
-* E-mail: lant8@mail2.sysu.edu.cn
+Dare of Birth: Oct. 10th, 1993<br>
+Address: Department of Water Resources and Environment,<br>School of Geography and Planning,<br>Sun Yat-sen University,<br>No.135 Xingangxi Road,<br>Guangzhou 510275,<br>China<br>
+Tel: +86 13673699111<br>
+E-mail: lant8@mail2.sysu.edu.cn<br>
 
 Education
 ======
-* 09/2010-06/2014, B.E., Groundwater Science and Engineering, Chang'an University
-* 09/2014-06/2017, M.E., Hydraulic Engineering, Chang'an University
-* 09/2017-12/2020, Ph.D., Physical Geography, Sun Yat-sen University
-* 09/2019-09/2020, Ph.D. (Joint Training Ph.D. Student), Hydraulic Engineering, University of Oslo
+09/2010-06/2014, B.E., Groundwater Science and Engineering, Chang'an University<br>
+09/2014-06/2017, M.E., Hydraulic Engineering, Chang'an University<br>
+09/2017-12/2020, Ph.D., Physical Geography, Sun Yat-sen University<br>
+09/2019-09/2020, Ph.D. (Joint Training Ph.D. Student), Hydraulic Engineering, University of Oslo<br>
+
+Selected Honours & Awards
+======
+China National Scholarship
 
 Research Interests
 ======
 Hydrological modelling and parameters optimization, hydrological change detection and attribution research, information mining of hydrological data, and the application of deep learning algorithms in hydrological modelling.
-  
-Selected Honours & Awards
-======
-China National Scholarship
   
 Research
 ======
