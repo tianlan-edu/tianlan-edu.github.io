@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-html {font-size: 18px; }
 
 ## [A Clustering Preprocessing Framework for the Subannual Calibration of a Hydrological Model Considering Climate‐Land Surface Variations](https://doi.org/10.1029/2018wr023160)
 
