@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 09/2010-06/2014, B.E., Groundwater Science and Engineering, Chang'an University
+* 09/2014-06/2017, M.E., Hydraulic Engineering, Chang'an University
+* 09/2017-12/2020, Ph.D., Physical Geography, Sun Yat-sen University
+* 09/2019-09/2020, Ph.D. (Joint Training Ph.D. Student), Hydraulic Engineering, University of Oslo
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Hydrological modelling and parameters optimization, hydrological change detection and attribution research, information mining of hydrological data, and the application of deep learning algorithms in hydrological modelling.
   
-Skills
+Selected Honours & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+China National Scholarship!
 
 Publications
 ======
@@ -46,14 +34,9 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
-Teaching
+Research
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Hydrological change detection and attribution research is the research topic of my Master's Thesis. The research redefined the concept of hydrological change, and fundamentally introduced the mechanism of hydrological change. An emphasis is placed on the state-of-the-art hydrological change detection system, which is put forward based on Hydrological statistics, Time series theory, Systems theory, Potential physical mechanism of hydrological change. The current research topic is developing a comprehensive sub-period calibration framework to improve the accuracy of hydrological forecasting by improving process representation and optimization scheme, which is further integrated with reservoir scheduling.
+
