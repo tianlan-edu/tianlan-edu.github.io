@@ -1,5 +1,5 @@
 ---
-title: "A Clustering Preprocessing Framework for the Subannual Calibration of a Hydrological Model Considering Climate‐Land Surface Variations, Water Resources Research"
+title: "A Clustering Preprocessing Framework for the Subannual Calibration of a Hydrological Model Considering Climate‐Land Surface Variations"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '**Authors: Lan, T.**, Lin, K. R., Liu, Z. Y., He, Y. H., Xu, C. Y., Zhang, H. B., and Chen, X. H.'
