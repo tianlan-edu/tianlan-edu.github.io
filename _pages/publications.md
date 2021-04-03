@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Talks
+Talks and presentations
 ======
 {% include base_path %}
 
