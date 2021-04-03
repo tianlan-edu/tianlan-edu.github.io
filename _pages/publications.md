@@ -19,5 +19,5 @@ Talks and Presentations
 ======
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talks.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
