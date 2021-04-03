@@ -8,7 +8,6 @@ venue: 'Water Resources Research'
 ---
 
 **[A Clustering Preprocessing Framework for the Subannual Calibration of a Hydrological Model Considering Climate‐Land Surface Variations](https://doi.org/10.1029/2018wr023160)**<br>
-
 **Published:** *Water Resources Research*<br>
 **Authors: Lan, T.**, Lin, K. R., Liu, Z. Y., He, Y. H., Xu, C. Y., Zhang, H. B., and Chen, X. H.<br>
  <p style="text-align:justify; text-justify:inter-ideograph;">
