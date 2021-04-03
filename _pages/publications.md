@@ -17,7 +17,6 @@ author_profile: true
 
 Talks and Presentations
 ======
-{% include base_path %}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talks.html %}
