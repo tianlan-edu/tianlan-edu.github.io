@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tian Lan"
 title_separator          : "-"
 name                     : &name "Tian Lan"
-description              : &description "personal description"
+description              : &description "Hydrology Researcher"
 url                      : https://tianlan-sysu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianlan-sysu/tianlan-sysu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tian Lan"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Hydrology Researcher"
   location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
