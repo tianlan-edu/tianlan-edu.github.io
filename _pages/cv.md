@@ -22,7 +22,7 @@ Hydrological modelling and parameters optimization, hydrological change detectio
   
 Selected Honours & Awards
 ======
-China National Scholarship!
+China National Scholarship
 
 Publications
 ======
