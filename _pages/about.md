@@ -13,7 +13,7 @@ redirect_from:
 Personal Information
 ======
 * Dare of Birth: Oct. 10th, 1993
-* Address: Department of Water Resources and Environment, School of Geography and Planning, Sun Yat-sen University, No.135 Xingangxi Road, Guangzhou 510275, China 
+* Address: Department of Water Resources and Environment,<br>School of Geography and Planning,<br>Sun Yat-sen University,<br>No.135 Xingangxi Road,<br>Guangzhou 510275,<br>China 
 * Tel: +86 13673699111
 * E-mail: lant8@mail2.sysu.edu.cn
 
