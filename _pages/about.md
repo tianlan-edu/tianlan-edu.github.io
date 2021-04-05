@@ -19,10 +19,10 @@ E-mail: lant8@mail2.sysu.edu.cn<br>
 
 Education
 ======
-09/2010-06/2014, B.E., Groundwater Science and Engineering, Chang'an University<br>
-09/2014-06/2017, M.E., Hydraulic Engineering, Chang'an University<br>
-09/2017-12/2020, Ph.D., Physical Geography, Sun Yat-sen University<br>
-09/2019-09/2020, Ph.D. (Joint Training Ph.D. Student), Hydraulic Engineering, University of Oslo<br>
+Joint Training Ph.D., (2019-2020), Hydraulic Engineering, University of Oslo
+Ph.D., (2017-2020), Physical Geography, Sun Yat-sen University
+M.S., (2014-2017), Hydraulic Engineering, Chang’an University
+B.S., (2010-2014), Groundwater Science and Engineering, Chang’an University
 
 Selected Honours & Awards
 ======
@@ -30,7 +30,7 @@ China National Scholarship
 
 Research Interests
 ======
-Hydrological modelling and parameters optimization, hydrological change detection and attribution research, information mining of hydrological data, and the application of deep learning algorithms in hydrological modelling.
+Hydrological modelling and parameters optimization; hydrological change detection and attribution research; hydrological statistics; information mining of hydrological data; and the application of deep learning algorithms in hydrological modelling.
   
 Research
 ======
