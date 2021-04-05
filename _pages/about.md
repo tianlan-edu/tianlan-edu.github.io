@@ -19,10 +19,10 @@ E-mail: lant8@mail2.sysu.edu.cn<br>
 
 Education
 ======
-Joint Training Ph.D., (2019-2020), Hydraulic Engineering, University of Oslo
-Ph.D., (2017-2020), Physical Geography, Sun Yat-sen University
-M.S., (2014-2017), Hydraulic Engineering, Chang’an University
-B.S., (2010-2014), Groundwater Science and Engineering, Chang’an University
+Joint Training Ph.D., (2019-2020), Hydraulic Engineering, University of Oslo<br />
+Ph.D., (2017-2020), Physical Geography, Sun Yat-sen University<br />
+M.S., (2014-2017), Hydraulic Engineering, Chang’an University<br />
+B.S., (2010-2014), Groundwater Science and Engineering, Chang’an University<br />
 
 Selected Honours & Awards
 ======
